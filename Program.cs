@@ -16,6 +16,8 @@ namespace GarysGarage
             myTesla.Drive();
             myZero.Drive();
 
+            Console.WriteLine(myCessna);
+
         }
     }
 }
