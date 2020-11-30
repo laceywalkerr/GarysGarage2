@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GarysGarage
 {
@@ -16,7 +17,12 @@ namespace GarysGarage
             myTesla.Drive();
             myZero.Drive();
 
-            Console.WriteLine(myCessna);
+            List<Vehicle> myGarage = new List<Vehicle>
+            {
+                myCessna,
+                myRam,
+                myTesla
+            };
 
         }
     }
