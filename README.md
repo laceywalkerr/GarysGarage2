@@ -208,7 +208,10 @@ Now you can run the program again and the Cessna will make a different noise.
 Follow the instructions in this repo: https://github.com/nashville-software-school/ShootingDice
 
 ## Notes
+
 to make program:
+```sh
 mkdir garysgarage2
 cd garys garage 
 dotnet new console -n GarysGarage -o .
+```
