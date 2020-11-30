@@ -12,4 +12,14 @@ public class Zero : Vehicle // Electric motorcycle
     {
         Console.WriteLine("The Midngiht Blue Zero Speeds past you. Yeeeeeeooowww!");
     }
+
+    public override void Turn(string direction)
+    {
+        Console.WriteLine("The Zero carefully turns right");
+    }
+
+    public override void Stop()
+    {
+        Console.WriteLine("The Zero gently rolls to a stop");
+    }
 }

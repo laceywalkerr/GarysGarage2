@@ -10,14 +10,19 @@ public class Vehicle
         Console.WriteLine("Vrooom!");
     }
 
+    public virtual void Turn(string direction)
+    {
+        Console.WriteLine("The vehicle turns right.");
+    }
+
+    public virtual void Stop()
+    {
+        Console.WriteLine("The vehicle stops.");
+    }
+
     public void RefuelTank()
     {
         Console.WriteLine("Refill method goes here");
     }
-
-    // public override void Drive()
-    // {
-    //     Console.WriteLine("zooooooooom!");
-    // }
 
 }
