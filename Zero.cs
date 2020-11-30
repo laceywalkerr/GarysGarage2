@@ -7,4 +7,9 @@ public class Zero : Vehicle // Electric motorcycle
     {
         Console.WriteLine($"Your Zero now charged to {this.BatteryKWh}KHw.");
     }
+
+    public override void Drive()
+    {
+        Console.WriteLine("The Midngiht Blue Zero Speeds past you. Yeeeeeeooowww!");
+    }
 }

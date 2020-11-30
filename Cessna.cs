@@ -3,8 +3,13 @@ public class Cessna : Vehicle // Propellor light aircraft
 {
     public double FuelCapacity { get; set; }
 
-    public void RefuelTank()
+    // public void RefuelTank()
+    // {
+    //     // method definition omitted
+    // }
+
+    public override void Drive()
     {
-        // method definition omitted
+        Console.WriteLine("The White Cessna flashes by you like a hurricane. Zzzzzzoooooooooommm!");
     }
 }

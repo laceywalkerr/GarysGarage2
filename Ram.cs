@@ -4,8 +4,13 @@ public class Ram : Vehicle // Gas powered truck
 {
     public double FuelCapacity { get; set; }
 
-    public void RefuelTank()
+    // public void RefuelTank()
+    // {
+    //     // method definition omitted
+    // }
+
+    public override void Drive()
     {
-        // method definition omitted
+        Console.WriteLine("The Silver Ram growls by you. Rrrrrrruuuummmbbble!");
     }
 }
