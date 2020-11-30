@@ -13,9 +13,20 @@ namespace GarysGarage
             Zero myZero = new Zero();
 
             myCessna.Drive();
+            myCessna.Turn("");
+            myCessna.Stop();
+
             myRam.Drive();
+            myRam.Turn("");
+            myRam.Stop();
+
             myTesla.Drive();
+            myTesla.Turn("");
+            myTesla.Stop();
+
             myZero.Drive();
+            myZero.Turn("");
+            myZero.Stop();
 
             List<Vehicle> myGarage = new List<Vehicle>
             {
