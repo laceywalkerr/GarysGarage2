@@ -212,6 +212,6 @@ Follow the instructions in this repo: https://github.com/nashville-software-scho
 to make program:
 ```sh
 mkdir garysgarage2
-cd garys garage 
+cd garysgarage2 
 dotnet new console -n GarysGarage -o .
 ```
