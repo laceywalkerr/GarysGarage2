@@ -187,7 +187,7 @@ To have each vehicle make its own sound, you need to do two things.
 
 Now you can run the program again and the Cessna will make a different noise.
 
-![overridden method](./images/overridden-method.gif)
+![overridden method](https://i.imgur.com/ZURisVS.gif)
 
 ## Practice: Custom Colors and Sounds
 
