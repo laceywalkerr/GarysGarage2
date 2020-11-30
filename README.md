@@ -147,7 +147,7 @@ modelS.Drive();
 mx410.Drive();
 ```
 
-![all vehicles make the same sound](./images/non-overridden-method.gif)
+![all vehicles make the same sound](https://i.imgur.com/6yXTkcX.gif)
 
 To have each vehicle make its own sound, you need to do two things.
 
@@ -187,7 +187,7 @@ To have each vehicle make its own sound, you need to do two things.
 
 Now you can run the program again and the Cessna will make a different noise.
 
-![overridden method](https://i.imgur.com/ZURisVS.gif)
+![overridden method](https://i.imgur.com/EWxNSii.gif)
 
 ## Practice: Custom Colors and Sounds
 
