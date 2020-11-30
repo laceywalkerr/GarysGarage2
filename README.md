@@ -113,7 +113,7 @@ public class Tesla : Vehicle
 
 Now any instance of `Tesla` will have both of those properties on it automatically.
 
-![example of inherited properties](./images/inheritance-example.gif)
+![example of inherited properties](https://i.imgur.com/ZURisVS.gif)
 
 
 ## Overriding Parent Behavior
