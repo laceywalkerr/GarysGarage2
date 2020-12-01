@@ -360,7 +360,7 @@ namespace Garage
 
 
 ## Notes:
-Feel free to refer back to [Zoological](https://github.com/laceywalkerr/Zoological/blob/main/README.md) for help on the second practice.
+Feel free to refer back to [Zoological](https://github.com/laceywalkerr/Zoological) for help on the second practice phase.
 
 
 to make program:
