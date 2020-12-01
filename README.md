@@ -207,7 +207,9 @@ Now you can run the program again and the Cessna will make a different noise.
 
 Follow the instructions in this repo: https://github.com/nashville-software-school/ShootingDice
 
-## Practice: More Gary's Wholesale Garage
+# Interfaces
+
+## More Practice: Gary's Wholesale Garage (Phase 2)
 
 > this exercise will build on the C# project you build in the previous chapter.
 
