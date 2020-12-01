@@ -1,5 +1,7 @@
 using System;
-
+// Vehicle is the parent class, you may only have one parent class
+// Cars in the vehicles folder are the children 
+// IElectic and IGas are the interfaces
 public class Vehicle
 {
     public string MainColor { get; set; }
