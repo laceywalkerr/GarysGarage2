@@ -366,6 +366,8 @@ Feel free to refer back to [Zoological](https://github.com/laceywalkerr/Zoologic
 - **Cars** in the vehicles folder are the *children* 
 - **IElectic** and **IGas** are the *interfaces*
 
+An **INTERFACE** in C# is a type definition similar to a class, except that it purely represents a contract between an object and its user. It can neither be directly instantiated as an object, nor can data members be defined. So, an interface is nothing but a collection of method and property declarations. An interface contains definitions for a group of related functionalities that a non-abstract class or a struct must implement. An interface may define static methods, which must have an implementation. Beginning with C# 8.0, an interface may define a default implementation for members.
+
 
 
 to make program:
