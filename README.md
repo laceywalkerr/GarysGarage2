@@ -369,3 +369,8 @@ mkdir garysgarage2
 cd garysgarage2 
 dotnet new console -n GarysGarage -o .
 ```
+
+to run program:
+```
+dotnet run
+```
