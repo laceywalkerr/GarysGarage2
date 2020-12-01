@@ -20,9 +20,4 @@ public class Vehicle
         Console.WriteLine("The vehicle stops.");
     }
 
-    public void RefuelTank()
-    {
-        Console.WriteLine("Refill method goes here");
-    }
-
 }
