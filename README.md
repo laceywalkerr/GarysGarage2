@@ -374,3 +374,7 @@ to run program:
 ```
 dotnet run
 ```
+
+Vehicle is the parent class, you may only have one parent class
+Cars in the vehicles folder are the children 
+IElectic and IGas are the interfaces
