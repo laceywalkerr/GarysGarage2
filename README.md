@@ -362,6 +362,11 @@ namespace Garage
 ## Notes:
 Feel free to refer back to [Zoological](https://github.com/laceywalkerr/Zoological) for help on the second practice phase.
 
+- **Vehicle** is the *parent* class, you may only have one parent class
+- **Cars** in the vehicles folder are the *children* 
+- **IElectic** and **IGas** are the *interfaces*
+
+
 
 to make program:
 ```sh
@@ -375,6 +380,3 @@ to run program:
 dotnet run
 ```
 
-- **Vehicle** is the *parent* class, you may only have one parent class
-- **Cars** in the vehicles folder are the *children* 
-- **IElectic** and **IGas** are the *interfaces*
