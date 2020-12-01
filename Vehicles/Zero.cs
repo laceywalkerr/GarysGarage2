@@ -3,9 +3,9 @@ namespace GarysGarage
 {
     public class Zero : Vehicle, IElectric // Electric motorcycle
     {
-        public double BatteryKWh { get; set; }
+        public double BatteryKWh { get; set; } = 100;
 
-        public int CurrentChargePercentage { get; set; }
+        public int CurrentChargePercentage { get; set; } = 15;
 
         public void ChargeBattery()
         {

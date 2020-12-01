@@ -4,8 +4,8 @@ namespace GarysGarage
 {
     public class Ram : Vehicle, IGas // Gas powered truck
     {
-        public double FuelCapacity { get; set; }
-        public int CurrentTankPercentage { get; set; }
+        public double FuelCapacity { get; set; } = 100;
+        public int CurrentTankPercentage { get; set; } = 75;
 
         public void RefuelTank()
         {

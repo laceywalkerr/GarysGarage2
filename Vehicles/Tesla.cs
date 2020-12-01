@@ -4,8 +4,8 @@ namespace GarysGarage
 {
     public class Tesla : Vehicle, IElectric // Electric car
     {
-        public double BatteryKWh { get; set; }
-        public int CurrentChargePercentage { get; set; }
+        public double BatteryKWh { get; set; } = 100;
+        public int CurrentChargePercentage { get; set; } = 25;
 
         public void ChargeBattery()
         {

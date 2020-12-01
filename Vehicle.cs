@@ -21,5 +21,4 @@ public class Vehicle
     {
         Console.WriteLine("The vehicle stops.");
     }
-
 }
